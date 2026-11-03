@@ -14,9 +14,11 @@ skills install HAOYI99/skills/<skill-name>
 
 ### Work
 
-| Skill | Description |
-|---|---|
-| [notion-mcp](./notion-mcp/SKILL.md) | Set up and operate Notion via MCP — init config, search, create/update pages and tasks, sync, comment. |
+| Skill                               | Description                       |
+| ----------------------------------- | --------------------------------- |
+| [notion-mcp](./notion-mcp/SKILL.md) | Set up and operate Notion via MCP |
+| [jira](./jira/SKILL.md)             | Set up and operate JIRA via MCP   |
+| [git-commit](./git-commit/SKILL.md) | Generate pure git commit message  |
 
 ## Usage
 

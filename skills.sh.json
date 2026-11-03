@@ -1,13 +1,15 @@
 {
-  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
-  "notGrouped": "bottom",
-  "groupings": [
-    {
-      "title": "Work",
-      "description": "Skills for workplace tools and productivity integrations.",
-      "skills": [
-        "notion-mcp"
-      ]
-    }
-  ]
+    "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+    "notGrouped": "bottom",
+    "groupings": [
+        {
+            "title": "Work",
+            "description": "Skills for workplace tools and productivity integrations.",
+            "skills": [
+                "notion-mcp",
+                "jira",
+                "git-commit"
+            ]
+        }
+    ]
 }
